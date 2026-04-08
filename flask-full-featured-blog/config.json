@@ -1,0 +1,25 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/the decode base",
+        "prod_uri": "mysql://root:@localhost/the decode base",
+        "fb_url": "https://facebook.com/thedecodebase",
+        "tw_url": "https://twitter.com/thedecodebase",
+        "gh_url": "https://github.com/thedecodebase",
+        "blog_name": "The DeCode Base",
+        "tagline": "Turning Complexity into Clarity",
+        "gmail-user": "pranav.madhahar@gmail.com",
+        "gmail-password": "qxko bgkg gpdt znfc",
+        "about_me": "I'm a full stack web developer. I like exploring and learning about new tech. I created this blog to share my knowledge  with like minded people.",
+        "no_of_posts": 1,
+        "login_img":"bootstrap-logo.svg",
+        "admin_user": "pranav",
+        "admin_password": "subscribenow",
+        "upload_location": "E:\\Learning\\flask\\static"
+
+        
+    }
+
+
+}
