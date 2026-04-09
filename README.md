@@ -3,6 +3,10 @@
 This repository is part of my **Learning Journey series**, documenting my progression from beginner to advanced projects across different stacks.  
 Here, I explore **Flask + Bootstrap** for building web applications, focusing on clean repo hygiene, modular design, and recruiter-friendly storytelling.
 
+## Note
+These projects were built while following tutorials from **CodeWithHarry**, during my early learning phase before I formally adopted Git.  
+I later organized them into this repository to preserve my foundational work and highlight progression from guided learning to independent projects.
+
 ## Contents
 - Beginner Flask apps (routing, templates, static files)
 - Integration with Bootstrap for UI
@@ -16,4 +20,4 @@ Here, I explore **Flask + Bootstrap** for building web applications, focusing on
 - Maintain professional repo hygiene (.gitignore, commit conventions)
 
 ---
-*Part of the Learning-Journey series: Web, React, Flask, Django, MongoDB, and beyond.*
+*Part of the Learning-Journey series: HTML-CSS → Tailwind-Bootstrap → React → Flask → Django → MongoDB → Agentic AI.*
